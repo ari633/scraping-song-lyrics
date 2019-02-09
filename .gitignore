@@ -1,0 +1,16 @@
+# phpstorm project files
+.idea
+
+# Mac DS_Store Files
+.DS_Store
+
+# sublime text project / workspace files
+*.sublime-project
+*.sublime-workspace
+
+# windows thumbnail cache
+Thumbs.db
+
+
+# Python virtual environtment
+venv
